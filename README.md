@@ -1,7 +1,6 @@
 Część zbioru literatury
-
-`"Hakerzy. Technoanarchiści cyberprzestrzeni"` Dariusz Doroziński | 2001
-
+```
+"Hakerzy. Technoanarchiści cyberprzestrzeni"` Dariusz Doroziński | 2001
 Programowanie w języku BASIC - Zbigniew Czech Krzysztof Nałęcki Stanisław Wołek
 Programowanie w języku BASIC - Jan Burzyński
 Programowanie w języku PASCAL - Ryszard K.Kott
