@@ -1,4 +1,3 @@
-blablabla
 
 # ebooki
 
